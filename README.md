@@ -32,7 +32,7 @@ Welcome to my portfolio! I’m Khushi Parekh, a Jr. Business Analyst with a pass
 ## 📬 Contact
 
 - 📧 Email: parekhkhushi33@gmail.com  
-- 💼 LinkedIn: [Khushi Parekh](https://linkedin.com/in/khuship02)  
+- 💼 LinkedIn: [Khushi Parekh](https://linkedin.com/in/khushiparekh02)  
 - 🖥️ GitHub: [@KhushiVP33](https://github.com/KhushiVP33)
 
 ---
