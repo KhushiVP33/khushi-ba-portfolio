@@ -17,7 +17,7 @@ Welcome to my portfolio! I’m Khushi Parekh, a Jr. Business Analyst with a pass
 
 | Documentation | Diagrams | Wireframes | PM Tools | Testing | 
 |---------------|----------|------------|----------|---------|
-| BRD, FRD, User Stories | Lucidchart, Draw.io | Figma, Balsamiq | Jira, GitHub, GitLab, MS Teams, Trello | Manual Testing, UAT | 
+| BRD, FRD, User Stories,Feature Sheet | Lucidchart, Draw.io | Figma, Balsamiq | Jira, GitHub, GitLab, MS Teams, Trello | Manual Testing, UAT | 
 
 ---
 
